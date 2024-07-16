@@ -193,6 +193,7 @@ export const experiences = [
       "MongoDB",
       "Node Js",
       "Express Js",
+      "Python"
     ],
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
@@ -210,7 +211,6 @@ export const experiences = [
       "Problem-Solving",
       "Understanding of Financial Markets",
     ],
-    doc: "https://drive.google.com/file/d/1orpusAJ_Ine3ZG1ShLdoBfkqv-W6CQxC/view?usp=sharing",
   },
   {
     id: 1,
@@ -321,26 +321,29 @@ export const projects = [
     //   },
     // ],
   },
-  // {
-  //   id: 1,
-  //   title: "Vexa",
-  //   date: "Oct 2022 - Present",
-  //   description:
-  //     "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-  //   tags: [
-  //     "React Js",
-  //     "MongoDb",
-  //     "Node Js",
-  //     "Express Js",
-  //     "Redux",
-  //     "NodeMailer",
-  //   ],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Project-Management-App",
-  //   webapp: "https://vexa-app.netlify.app/",
-  // },
+  {
+    id: 1,
+    title: "Black & White ",
+    date: "April 2024 - April 2024",
+    description:
+      "I am developing an e-commerce platform for a clothing brand named Black and White utilizing the MERN stack (MongoDB, Express.js, React, Node.js). My responsibilities include creating robust login and registration systems, incorporating JWT tokens for secure user authentication, and designing responsive, dynamic pages to ensure an optimal user experience across various devices.",
+    image:
+      "https://imagetolink.com/ib/lll47x929T.JPG",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "NodeMailer",
+      "Tailwind",
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    category: "web app",
+    github: "https://github.com/yugandhar0609/E-commerce",
+    webapp: "http://blackwhiteclothingshop.netlify.app",
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
