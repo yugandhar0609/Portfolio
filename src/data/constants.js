@@ -270,7 +270,7 @@ export const projects = [
     date: "Jan 2024 - Jan 2024",
     description:
       "Developed the BTL Architecture website using the MERN stack, combining React for a dynamic frontend and Node.js/Express.js for a robust backend. Implemented MongoDB for flexible data management and a contact form to enhance client communication. Successfully deployed the site, showcasing BTL's innovation and global accessibility.",
-    image: "https://imagetolink.com/ib/89oRcxYhHY.png",
+    image: "/btl.png",
     tags: [
       "HTML",
       "CSS",
@@ -293,7 +293,7 @@ export const projects = [
     description:
       "Developed a website for SEAINDIA Shipping, Clearing, and Forwarding Agents using the MERN stack in a collaborative group project, enhancing digital presence and streamlining operations.",
     image:
-      "https://imagetolink.com/ib/mY68aIQLFP.png",
+      "/seaindia.png",
     tags: [    "HTML",
       "CSS",
       "JavaScript",
@@ -328,7 +328,7 @@ export const projects = [
     description:
       "I am developing an e-commerce platform for a clothing brand named Black and White utilizing the MERN stack (MongoDB, Express.js, React, Node.js). My responsibilities include creating robust login and registration systems, incorporating JWT tokens for secure user authentication, and designing responsive, dynamic pages to ensure an optimal user experience across various devices.",
     image:
-      "https://imagetolink.com/ib/lll47x929T.JPG",
+      "/blackandwhite.png",
     tags: [
       "React Js",
       "MongoDb",
